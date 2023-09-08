@@ -10,4 +10,3 @@ Here's an overview of the projects and concepts covered in this repository:
 - **Alexa Integration:** Develop voice-controlled applications using Alexa's voice commands.
 - **IoT Projects:** Build projects related to the Internet of Things (IoT), including remote control and monitoring.
 
-These Arduino sketches serve as valuable resources for understanding and implementing a wide range of hardware projects. Feel free to explore the code examples and adapt them for your own projects.
